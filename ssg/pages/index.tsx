@@ -29,7 +29,7 @@ const Home: NextPage<IHomePage> = ({ movies }) => {
       </Head>
 
       <h1 className="font-poppins text-3xl mx-auto text-center mb-10 text-green-500 font-semibold">
-        Movies App - SSR
+        Movies App - SSG
       </h1>
 
       <div className="grid grid-cols-4 gap-5 mx-auto">
